@@ -89,24 +89,6 @@ projects:
         link: "#hook"
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-publications:
-    title: Publications
-    intro: |
-      
-
-    papers:
-      - title: "Sharing Matters for Generalization in Deep Metric Learning"
-        authors: T. Milbich*, K. Roth*, B. Brattoli, B. Ommer
-        conference: tPAMI, 2020
-        
-      - title: "Rethinking Zero-shot Video Classification: End-to-end Training for Realistic Applications"
-        authors: B. Brattoli, J. Tighe, F. Zhdanov, P. Perona, K. Chalupka
-        conference: CVPR, 2020
-        
-      - title: "MIC: Mining Interclass Characteristics for Improved Metric Learning"
-        authors: B. Brattoli*, K. Roth*, B. Ommer
-        conference: ICCV, 2019
-
 skills:
     title: Skills &amp; Proficiency
     toolset:
